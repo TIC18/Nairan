@@ -1,4 +1,4 @@
-#include "listaNomes.h"
+#include "listaNomes.cpp"
 #include <iostream>
 #include <algorithm>
 
